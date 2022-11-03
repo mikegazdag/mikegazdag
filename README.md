@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikegazdag
 
 ```
-~CONFUCIOUS~
                                  .
                                .:::.
                              .:::::::.
